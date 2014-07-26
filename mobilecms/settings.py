@@ -46,6 +46,7 @@ INSTALLED_APPS = (
     #add for cms
     'cms',
     'mptt',
+    'menus',
     'south',
     'sekizai',
     'djangocms_admin_style',
